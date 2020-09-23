@@ -43,6 +43,9 @@ header {
 	background: #f6f9f9;
 	padding: 25px 0;
 }
+header .flex {
+    align-items: center;
+}
 .logo {width: 20%;flex: 0 0 auto;}
 .logo a{}
 .logo a img{}
