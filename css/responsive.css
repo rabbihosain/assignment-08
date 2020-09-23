@@ -1,0 +1,81 @@
+@media (max-width: 1100px) {
+	.container {
+	    width: 730px;
+	}
+	.banner-content h1 {
+	    font-size: 100px;
+	}
+	nav ul li a {
+    	padding: 10px 20px;
+	}
+	.banner-section {
+	    height: 700px;
+	}
+}
+
+@media (max-width: 767px) {
+	.container {
+	    width: 550px;
+	}
+	nav ul li a {
+	    padding: 10px 15px;
+	    font-size: 14px;
+	}
+	.banner-section {
+	    height: 600px;
+	}
+	.banner-content h1 {
+	    font-size: 80px;
+	}
+	.banner-content span {
+	    margin: 20px 0;
+	}
+	.about-section p {
+	    font-size: 16px;
+	    line-height: 1.4;
+	}
+	.col {
+	    width: 100%;
+	}
+	.contact-form form ul li input[type="submit"] {
+	    padding: 6px 18px;
+	}
+	.contact-form form ul li label {
+	    font-size: 14px;
+	    margin-left: 5px;
+	}
+}
+
+@media (max-width: 576px) {
+	.container {
+	    width: 100%;
+	    padding: 0 20px;
+	}
+	h2 {
+	    font-size: 30px;
+	}
+	.about-section p {
+	    font-size: 15px;
+	}
+	.banner-section {
+	    height: 500px;
+	}
+	.banner-content h1 {
+	    font-size: 60px;
+	}
+	.btn {
+	    font-size: 16px;
+	    padding: 10px 20px;
+	    border-radius: 5px;
+	    margin-top: 25px;
+	}
+	.arrow {
+	    bottom: 50px;
+	}
+	.showcase {
+	    margin: 20px;
+	}
+	.contact-form {
+	    width: 80%;
+	}
+}
