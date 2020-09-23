@@ -304,6 +304,7 @@ nav ul li a:hover::after{
     background: transparent;
     margin-bottom: 15px;
     outline: none;
+    color:#fff;
 }
 .contact-form form ul {
     display: flex;
