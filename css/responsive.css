@@ -24,6 +24,9 @@
 	.banner-section {
 	    height: 600px;
 	}
+	.btn{
+		margin-top: 45px;
+	}
 	.banner-content h1 {
 	    font-size: 80px;
 	}
@@ -34,8 +37,14 @@
 	    font-size: 16px;
 	    line-height: 1.4;
 	}
+	.features-section .flex{
+		justify-content: center;
+	}
 	.col {
-	    width: 100%;
+	    width: 80%;
+	}
+	.contact-form {
+	    width: 80%;
 	}
 	.contact-form form ul li input[type="submit"] {
 	    padding: 6px 18px;
@@ -50,6 +59,19 @@
 	.container {
 	    width: 100%;
 	    padding: 0 20px;
+	}
+	header .flex{
+		justify-content: center;
+	}
+	.logo{
+		width: 100%;
+		text-align: center;
+	}
+	nav{
+		width: 100%;
+	}
+	nav ul {
+	    justify-content: center;
 	}
 	h2 {
 	    font-size: 30px;
@@ -74,6 +96,9 @@
 	}
 	.showcase {
 	    margin: 20px;
+	}
+	.showcase-section .flex{
+		justify-content: center;
 	}
 	.contact-form {
 	    width: 80%;
