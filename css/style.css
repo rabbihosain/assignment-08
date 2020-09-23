@@ -286,6 +286,7 @@ nav ul li a:hover::after{
     border: 1px solid #999;
     background: transparent;
     margin-bottom: 15px;
+    color: #fff;
 }
 .contact-form form textarea{
     width: 100%;
