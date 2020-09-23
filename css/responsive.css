@@ -11,6 +11,10 @@
 	.banner-section {
 	    height: 700px;
 	}
+	.feature {
+	    padding: 20px;
+	    text-align: center;
+	}
 }
 
 @media (max-width: 767px) {
@@ -37,7 +41,7 @@
 	    font-size: 16px;
 	    line-height: 1.4;
 	}
-	.features-section .flex{
+	.features-section .flex, .showcase-section .flex{
 		justify-content: center;
 	}
 	.col {
