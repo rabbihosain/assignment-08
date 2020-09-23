@@ -142,7 +142,7 @@ nav ul li a:hover{
     padding: 20px 0;
 }
 .feature {
-    padding: 30px;
+    padding: 0 30px;
     text-align: center;
 }
 .feature span{}
